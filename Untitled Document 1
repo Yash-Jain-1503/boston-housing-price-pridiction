@@ -1,0 +1,8 @@
+things to do in future :
+
+I am going to add a feature to pridict a price using KNN algorithm.
+
+
+KNN algorithm:
+
+in this algorithm,the distance of point whose price is to pridicted is chosen and its euclidean distance from its k nearest neighbuors calculated and and based on that the group of the chosen point is decided.  
